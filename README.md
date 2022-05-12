@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barindebnath
-- 👀 I’m interested in React/Javascript 
+- 👀 I’m interested in React/Typescript
 - 📫 How to reach me -> barindebnath@gmail.com
 
 <!---
