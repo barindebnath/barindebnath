@@ -1,14 +1,12 @@
 ![Header](./github-header-image.png)
 
-<img src="./developer.webp" align="right" width="480" height="360" />
+<img src="./developer.webp" align="right" width="33%" />
  
 - 👀 I’m interested in React | Next | Typescript | Golang
 - 📫 How to reach me -> barindebnath@gmail.com
 - 👋 @barindebnath
 
-<!---
-barindebnath/barindebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
---->
+
+<a href="www.linkedin.com/in/barin-d">
+ <img align="left" src="./instagram.png" alt="icon | LinkedIn" width="21px"/>
+</a>
