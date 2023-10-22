@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<img src="./github-header-image.png"  width="100%" />
 
 <img src="./developer.webp" align="right" width="33%" />
  
@@ -6,7 +6,7 @@
 - 📫 How to reach me -> barindebnath@gmail.com
 - 👋 @barindebnath
 
-
+<h5>🤝🏽Connect with me</h5>
 <a href="www.linkedin.com/in/barin-d">
- <img align="left" src="./instagram.png" alt="icon | LinkedIn" width="21px"/>
+ <img align="left" src="./instagram.png" alt="icon | LinkedIn" width="20px" height="20px"/>
 </a>
