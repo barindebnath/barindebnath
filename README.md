@@ -1,10 +1,18 @@
 ![Header](./github-header-image.png)
 
-- 👀 I’m interested in React | Next | Typescript | Golang
-- 📫 How to reach me -> barindebnath@gmail.com
-- 👋 @barindebnath
+<table border="0">
+ <tr>
+    <td>
+      - 👀 I’m interested in React | Next | Typescript | Golang
+      - 📫 How to reach me -> barindebnath@gmail.com
+      - 👋 @barindebnath
+    </td>
+    <td>
+      ![](./developer.webp)
+    </td>
+ </tr>
+</table>
 
-![](./developer.webp)
 
 <!---
 barindebnath/barindebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
