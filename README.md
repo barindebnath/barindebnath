@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<img src="./developer.webp" style="text-align: right" />
+<img src="./developer.webp" align="right" width="480" height="360" />
  
 - 👀 I’m interested in React | Next | Typescript | Golang
 - 📫 How to reach me -> barindebnath@gmail.com
