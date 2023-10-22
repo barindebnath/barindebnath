@@ -6,7 +6,7 @@
 - 📫 How to reach me -> barindebnath@gmail.com
 - 👋 @barindebnath
 
-<h5>🤝🏽Connect with me</h5>
+##🤝🏽Connect with me
 <a href="www.linkedin.com/in/barin-d">
  <img align="left" src="./instagram.png" alt="icon | LinkedIn" width="20px" height="20px"/>
 </a>
