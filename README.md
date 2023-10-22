@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 - 👋 Hi, I’m @barindebnath
 - 👀 I’m interested in React | Next | Typescript | Golang
 - 📫 How to reach me -> barindebnath@gmail.com
