@@ -4,7 +4,7 @@
  
 - 👀 I’m interested in React | Next | Typescript | Golang
 - 📫 How to reach me -> barindebnath@gmail.com
-- 👋 @barindebnath
+
 
 <h2>Connect with me 🤝🏽</h2>
 <a href="https://www.linkedin.com/in/barin-d">
