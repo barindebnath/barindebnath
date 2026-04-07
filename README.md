@@ -28,7 +28,7 @@
 - Built modular, reusable UI components using React + Material UI
 - Integrated APIs and improved legacy application performance
 
-### Puspendu Studio — Frontend Developer
+### Puspendu Studio — Freelancer
 `Sep 2019 – Aug 2020`
 - Developed responsive web applications using HTML, CSS, JavaScript, Bootstrap
 
