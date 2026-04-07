@@ -1,4 +1,4 @@
-<img src="./github-header-image.png" width="100%" />
+# Hi, I am Barin Debnath
 
 ### Senior Software Engineer (Frontend – React) · Pune, India
 - I build scalable, high-performance frontend systems with a strong focus on React, TypeScript, and user experience.
