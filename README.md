@@ -1,6 +1,6 @@
 # Hi, I am Barin Debnath
 
-### Senior Software Engineer (Frontend – React) · Pune, India
+### Senior Software Engineer · India
 - I build scalable, high-performance frontend systems with a strong focus on React, TypeScript, and user experience.
 - Recently promoted at Xplor Technologies for driving impactful initiatives across frontend architecture, performance, and AI-powered features.
 
