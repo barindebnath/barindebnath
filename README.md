@@ -76,7 +76,7 @@ Architected a modular SaaS foundation exploring modern, scalable full-stack patt
 - Focused on maintainable architecture
 
 **Tech:**  
-`Next.js 15` `Drizzle ORM` `Node.js` `Clerk` `Lemon Squeezy`
+`Next.js 16` `Drizzle ORM` `Node.js` `Clerk` `Lemon Squeezy`
 
 ---
 
