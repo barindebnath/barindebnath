@@ -67,16 +67,16 @@
 
 ## 🚀 Featured Project
 
-### 🧩 B2B SaaS Foundation
+### 📍 Waypoint
 
-Architected a modular SaaS foundation exploring modern, scalable full-stack patterns.
+A privacy-first developer status tracker and AI external memory engine for multi-stage delivery pipelines.
 
-- Built type-safe data workflows
-- Designed subscription & billing flows
-- Focused on maintainable architecture
+- Server-computed pipeline progression with immutable card references
+- First-class AI agent integration via `/llms.txt` and idempotent API endpoints
+- Weekly Tempo timesheet attestation strip and engineering analytics
 
 **Tech:**  
-`Next.js 16` `Drizzle ORM` `Node.js` `Clerk` `Lemon Squeezy`
+`Next.js 15` `Drizzle ORM` `Neon Postgres` `Better Auth` `TanStack Query` `Tailwind CSS`
 
 ---
 
